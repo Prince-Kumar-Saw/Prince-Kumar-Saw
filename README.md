@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello there, I'm Prince Kumar Saw👋<br><br>🎓 ECE Student at Techno Main Salt Lake<br>💡 Full Stack Developer passionate about AI, Web Development, and Real-Time Systems<br>🛠️ Tech Stack: React.js, Node.js, MongoDB, PostgreSQL, Java.<br>🚀 Built Fake news project, and Cyber Security project (SentinelX).<br>🌱 Currently exploring DSA, Artificial Intelligence, and System Design..
 
 
